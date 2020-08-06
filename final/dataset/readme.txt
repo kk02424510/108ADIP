@@ -1,0 +1,1 @@
+請根據對應的ground truth獲取圖片大小來計算MSE
